@@ -1,0 +1,8 @@
+git clone -> obtener repositorio
+git status -> consultar su estado
+git switch -c -> crear nueva rama y cambiar a esta
+git add . -> añadir todos los archivos para preparar cambios
+git commit -m -> crear commit y añadir mensaje con los archivos añadidos
+git push -u origin main -> se hace en el primer push para enlazar con repositorio remoto, resto de veces git push
+git pull -> sincronizar contenido de las ramas remotas con las locales
+git merge -> fusionar una rama con otra

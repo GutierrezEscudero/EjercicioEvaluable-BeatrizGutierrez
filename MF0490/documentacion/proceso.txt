@@ -1,0 +1,8 @@
+1. Desde mi propio usuario de Github, se hace click en Repositories y 
+a continuación se pincha en el botón New con el icono de libro con marcapáginas.
+Se rellena el nombre del repositorio y se hace click en el botón Create Repository.
+2. Desde Git Bash, con el comando git switch -c se crea la rama feature que se nos pide y automáticamente el comando cambia a
+la nueva rama para empezar a trabajar.
+3. Se han creado los archivos individuales con el comando touch, y el editor nano para escribir en ellos.
+4. Para guardar los cambios y publicarlos, se realiza el proceso de git add . -> git commit -m -> git push
+5. Por último, se realiza un git merge con la rama main desde feature para integrar todo el trabajo realizado en la rama principal
