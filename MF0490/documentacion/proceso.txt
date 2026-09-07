@@ -5,4 +5,6 @@ Se rellena el nombre del repositorio y se hace click en el botón Create Reposit
 la nueva rama para empezar a trabajar.
 3. Se han creado los archivos individuales con el comando touch, y el editor nano para escribir en ellos.
 4. Para guardar los cambios y publicarlos, se realiza el proceso de git add . -> git commit -m -> git push
-5. Por último, se realiza un git merge con la rama main desde feature para integrar todo el trabajo realizado en la rama principal
+5. Se realiza un git merge con la rama main desde feature para integrar todo el trabajo realizado en la rama principal
+6. Por último, se comprueba el resultado final desde la interfaz gráfica de Github para cerciorarse de que
+todo el trabajo realizado se encuentra en la rama main
